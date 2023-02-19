@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# Hey there.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Disclaimer: This site was designed by Jarek Ceborski (https://twitter.com/jarekceborski). I only coded his design in dark mode to learn more about React and Tailwindcss.
 
+
+# React Info
 ## Available Scripts
 
 In the project directory, you can run:

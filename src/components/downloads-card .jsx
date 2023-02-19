@@ -6,7 +6,7 @@ function DownloadCard({bg_image, image, title, description}) {
             <div className="absolute w-full h-full z-50 bg-gradient-to-t from-black ...">
                 <div className="h-full flex flex-col justify-end p-4">
                 <h3 className="text-lg font-semibold text-zinc-100 ">{title}</h3>
-                <p className="text-lg font-normal text-zinc-500">{description}</p>
+                <p className="text-lg font-normal text-zinc-500 leading-none">{description}</p>
                 </div>
             </div>
             <img src={image} alt="#"  className="w-full absolute z-20"/>

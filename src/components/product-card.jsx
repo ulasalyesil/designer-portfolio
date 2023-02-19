@@ -6,7 +6,7 @@ function ProductCard({type, icon, title, description}) {
             <img src={icon} alt="#"  className="w-16"/>
             <div className="flex flex-col">
                 <h3 className="text-lg font-semibold text-zinc-100 ">{title}</h3>
-                <p className="text-lg font-normal text-zinc-500">{description}</p>
+                <p className="text-lg font-normal text-zinc-500 leading-none">{description}</p>
             </div>
         </div>
     );

@@ -2,6 +2,8 @@
 
 Disclaimer: This site was designed by Jarek Ceborski (https://twitter.com/jarekceborski). I only coded his design in dark mode to learn more about React and Tailwindcss.
 
+At the moment, it is just a static one pager. Still trying to figure out routing :D. When I do I'll try to create the project pages, wallpaper pages etc.
+
 
 # React Info
 ## Available Scripts

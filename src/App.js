@@ -13,10 +13,10 @@ function App() {
 
   return (
         
-    <div className="App">
+
     <div className="App">
       <div id='main-wrapper' className='bg-zinc-900 w-screen flex flex-col place-content-center'>
-      <div id='content' className='flex flex-col p-4 pt-16 pb-60 pt-16 mb-16 m-auto gap-16 max-w-2xl sm:p-16'>
+      <div id='content' className='flex flex-col p-4 pt-16 pb-60 mb-16 m-auto gap-16 max-w-2xl sm:p-16'>
         <Hero />
         <Products />
         <Downloads />

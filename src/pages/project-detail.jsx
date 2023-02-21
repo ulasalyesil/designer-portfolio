@@ -15,7 +15,7 @@ function ProjectDetailPage() {
             <img src={image} className="rounded-2xl w-80"/>
         </div>
           <Link to="/">
-            <button className="bg-zinc-100 p-2 w-full rounded-full shadow-xl shadow-zinc-100/25 font-semibold">Test</button>
+            <button className="bg-zinc-100 p-2 w-full rounded-full shadow-xl shadow-zinc-100/16 hover:shadow-2xl hover:shadow-zinc-100-30">Go back</button>
           </Link>
         </div>
 
